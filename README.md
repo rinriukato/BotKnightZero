@@ -5,3 +5,4 @@ But here are some screenshots taken from what I got the bot to generate:
 
 ![First one](https://github.com/rinriukato/BotKnightZero/blob/main/Examples/Screenshot%202022-04-05%20173108.png?raw=true)
 
+![Second one](https://raw.githubusercontent.com/rinriukato/BotKnightZero/main/Examples/Screenshot%202022-04-05%20173324.png?token=GHSAT0AAAAAABSXMNRABWJQN3SZIRXMGGLQYSV6EZA)
